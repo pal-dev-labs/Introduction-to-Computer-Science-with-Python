@@ -16,39 +16,11 @@ the course starts at the end of September and ends at the end of May. The course
 # Overview:
 This course offers an engaging and comprehensive introduction to the world of computer science using Python, a versatile and powerful programming language. Designed for high school students, the curriculum emphasizes foundational programming concepts while seamlessly integrating computational mathematics and physics, linear algebra, statistics, algorithm theory, data science, artificial intelligence (AI), and machine learning (ML).
 
-[# Syllabus](./syllabus.md)
+# Course Details
+[# click here](./course details.md)
 
-# Course Objectives:
-By the end of this three-year program, students will: Master Python Programming: Begin with the basics of Python, including syntax, data types, and control structures, gradually advancing to more complex topics such as functions, classes, and modules.
-
-Explore Computational Mathematics: Understand key mathematical principles that underpin computational thinking and problem-solving, with applications in areas such as calculus and discrete mathematics.
-
-Delve into Physics and Engineering: Apply programming skills to solve real-world physics problems, fostering an understanding of concepts like motion, forces, and energy through computational simulations.
-
-Develop Linear Algebra Skills: Learn the fundamentals of linear algebra, including vectors, matrices, and transformations, while implementing algorithms to manipulate these structures in Python.
-
-Analyze Data with Statistics: Gain proficiency in statistical methods and data analysis techniques, including descriptive statistics, inferential statistics, and data visualization.
-
-Understand Algorithm Theory: Explore the principles of algorithm design and analysis, including sorting, searching, and optimization, to enhance computational efficiency.
-
-Venturing into Data Science: Concludes the course with a focus on data science principles, machine learning, and big data, equipping students with the tools to extract insights from data and make informed decisions.
-
-Integrate Artificial Intelligence and Machine Learning: Engage with foundational concepts of AI and ML, exploring how algorithms learn from data. Students will work with real-world datasets to build and evaluate simple predictive models.
-
-Discover Generative Intelligence: Learn about generative AI, including techniques to create text, images, and other media using algorithms. Students will gain hands-on experience with prompting strategies to effectively interact with AI models like ChatGPT.
-
-Practical Applications of Prompting: Students will practice developing effective prompts to engage AI tools, enhancing their understanding of how these technologies can be applied in various fields, from natural language processing to creative projects.
-
-# Course Structure:
-Year 1: Introduction to Python, foundational programming concepts, and basic computational mathematics.
-Year 2: Intermediate programming, an introduction to physics applications, linear algebra, statistics, and an introduction to AI and ML concepts.
-Year 3: Advanced programming techniques, algorithm theory, data science methodologies, and practical applications of AI, including generative intelligence and prompting strategies with tools like ChatGPT.
-
-# Learning Methods:
-The course combines lectures, hands-on programming exercises, collaborative projects, and real-world applications to ensure a well-rounded learning experience. Students will engage in problem-solving and critical thinking exercises that promote a deeper understanding of the material.
-
-# Prerequisites:
-No prior programming experience is required, though a willingness to learn and explore new concepts is essential.
+# Syllabus 
+[# click here](./syllabus.md)
 
 # Tools used
 To follow the course, you can use a personal laptop.
