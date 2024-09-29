@@ -9,10 +9,10 @@ Teacher: Prof. Giandomenico Palumbo
 
 COURSE START/END DATE: the course starts at the end of September and ends at the end of May. The course lasts one hour per week at Computer Science Laboratory, IIS headquarters via Roma 298
 
-**Overview:**
+# Overview:
 This course offers an engaging and comprehensive introduction to the world of computer science using Python, a versatile and powerful programming language. Designed for high school students, the curriculum emphasizes foundational programming concepts while seamlessly integrating computational mathematics and physics, linear algebra, statistics, algorithm theory, data science, artificial intelligence (AI), and machine learning (ML).
 
-**Course Objectives:**
+# Course Objectives:
 By the end of this three-year program, students will: Master Python Programming: Begin with the basics of Python, including syntax, data types, and control structures, gradually advancing to more complex topics such as functions, classes, and modules.
 
 Explore Computational Mathematics: Understand key mathematical principles that underpin computational thinking and problem-solving, with applications in areas such as calculus and discrete mathematics.
@@ -33,15 +33,15 @@ Discover Generative Intelligence: Learn about generative AI, including technique
 
 Practical Applications of Prompting: Students will practice developing effective prompts to engage AI tools, enhancing their understanding of how these technologies can be applied in various fields, from natural language processing to creative projects.
 
-**Course Structure:**
+# Course Structure:
 Year 1: Introduction to Python, foundational programming concepts, and basic computational mathematics.
 Year 2: Intermediate programming, an introduction to physics applications, linear algebra, statistics, and an introduction to AI and ML concepts.
 Year 3: Advanced programming techniques, algorithm theory, data science methodologies, and practical applications of AI, including generative intelligence and prompting strategies with tools like ChatGPT.
 
-**Learning Methods:**
+# Learning Methods:
 The course combines lectures, hands-on programming exercises, collaborative projects, and real-world applications to ensure a well-rounded learning experience. Students will engage in problem-solving and critical thinking exercises that promote a deeper understanding of the material.
 
-**Prerequisites:**
+# Prerequisites:
 No prior programming experience is required, though a willingness to learn and explore new concepts is essential.
 
 # Tools used
@@ -70,11 +70,7 @@ https://docs.anaconda.com/navigator/index.html
 https://docs.jupyter.org/en/latest/
 3. In the Jupyter Notebooks of this course, several comments are inserted that describe the code as it is implemented.
 4. Basic Python:
-
 4.1 Basic Python course by Prof. Nicola Cassetta (in Italian): https://ncassetta.altervista.org/Tutorial_Python/index.html
-
 4.2 Jake VanderPlas - A Whirlwind Tour of Python - O'Reilly: https://github.com/jakevdp/WhirlwindTourOfPython
-
 4.3 M. Lutz - Learning Python - O'Reilly (very detailed)
-
 4.4 For the exercises, you can use the exercises from W3 Resource.com, viewable
