@@ -16,6 +16,14 @@ the course starts at the end of September and ends at the end of May. The course
 # Overview:
 This course offers an engaging and comprehensive introduction to the world of computer science using Python, a versatile and powerful programming language. Designed for high school students, the curriculum emphasizes foundational programming concepts while seamlessly integrating computational mathematics and physics, linear algebra, statistics, algorithm theory, data science, artificial intelligence (AI), and machine learning (ML).
 
+# Syllabus
+
+1. Lesson 1
+    - Introduction to Google Colab and notebook
+    - Introduction to arithmetics operators and expressions
+    - Introduction to variables, assign statement, print statement and operations with variables
+    - How to print and input data from keyboard
+
 # Course Objectives:
 By the end of this three-year program, students will: Master Python Programming: Begin with the basics of Python, including syntax, data types, and control structures, gradually advancing to more complex topics such as functions, classes, and modules.
 
@@ -50,7 +58,7 @@ No prior programming experience is required, though a willingness to learn and e
 
 # Tools used
 To follow the course, you can use a personal laptop.
-In this case, you need to install the **Anaconda Navigator** suite on your laptop (downloadable from the website https://anaconda.org/anaconda/anaconda-navigator). For the installation you can follow the video instructions published on the classroom website of the course (see below) or viewable on my YouTube channel https://www.youtube.com/channel/UCvE1MUP-vbzUQnV_N4nbPfA
+In this case, you need to install the **Anaconda Navigator** suite on your laptop (downloadable from the website https://www.anaconda.com/download). For the installation you can follow the video instructions published on the classroom website of the course (see below) or viewable on my YouTube channel https://www.youtube.com/watch?v=_mo3EP4Hy-k&t=115s
 
 Those who do not have a personal laptop can use the laptops of the computer lab. The environment used is **Google Colab** which can be used with a browser (Chrome for example) from any PC, directly from the address https://colab.research.google.com/
 
@@ -62,7 +70,7 @@ To import notebooks into Colab you need to have a **GitHub account**. If you do 
 
 # Google Classroom work environment
 For students of the course, the course material and any communications are published in a dedicated Google Classroom environment, available from the following link
-https://classroom.google.com/c/NTgyNDg1NTU4NDA5?cjc=ow5m5ob
+https://classroom.google.com/u/1/c/NzE5NDg1NDk3Mjg3
 
 # Teaching material and useful links
 The course covers many topics related to different scientific disciplines such as Mathematics, Physics, Data Science, Computer Science and therefore there is no single textbook that contains all the topics.
@@ -74,7 +82,7 @@ https://docs.anaconda.com/navigator/index.html
 https://docs.jupyter.org/en/latest/
 3. In the Jupyter Notebooks of this course, several comments are inserted that describe the code as it is implemented.
 4. Basic Python:
-4.1 Basic Python course by Prof. Nicola Cassetta (in Italian): https://ncassetta.altervista.org/Tutorial_Python/index.html
-4.2 Jake VanderPlas - A Whirlwind Tour of Python - O'Reilly: https://github.com/jakevdp/WhirlwindTourOfPython
-4.3 M. Lutz - Learning Python - O'Reilly (very detailed)
-4.4 For the exercises, you can use the exercises from W3 Resource.com, viewable
+    - 4.1 Basic Python course by Prof. Nicola Cassetta (in Italian): https://ncassetta.altervista.org/Tutorial_Python/index.html
+    - 4.2 Jake VanderPlas - A Whirlwind Tour of Python - O'Reilly: https://github.com/jakevdp/WhirlwindTourOfPython
+    - 4.3 M. Lutz - Learning Python - O'Reilly (very detailed)
+    - 4.4 For the exercises, you can use the exercises from W3 Resource.com, viewable
