@@ -17,7 +17,7 @@ the course starts at the end of September and ends at the end of May. The course
 This course offers an engaging and comprehensive introduction to the world of computer science using Python, a versatile and powerful programming language. Designed for high school students, the curriculum emphasizes foundational programming concepts while seamlessly integrating computational mathematics and physics, linear algebra, statistics, algorithm theory, data science, artificial intelligence (AI), and machine learning (ML).
 
 # Course Details
-[# click here](./course details.md)
+[# click here](./details.md)
 
 # Syllabus 
 [# click here](./syllabus.md)
