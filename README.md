@@ -16,13 +16,7 @@ the course starts at the end of September and ends at the end of May. The course
 # Overview:
 This course offers an engaging and comprehensive introduction to the world of computer science using Python, a versatile and powerful programming language. Designed for high school students, the curriculum emphasizes foundational programming concepts while seamlessly integrating computational mathematics and physics, linear algebra, statistics, algorithm theory, data science, artificial intelligence (AI), and machine learning (ML).
 
-# Syllabus
-
-1. Lesson 1
-    - Introduction to Google Colab and notebook
-    - Introduction to arithmetics operators and expressions
-    - Introduction to variables, assign statement, print statement and operations with variables
-    - How to print and input data from keyboard
+[# Syllabus](./syllabus.md)
 
 # Course Objectives:
 By the end of this three-year program, students will: Master Python Programming: Begin with the basics of Python, including syntax, data types, and control structures, gradually advancing to more complex topics such as functions, classes, and modules.
