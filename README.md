@@ -10,7 +10,7 @@ Teacher: Prof. Giandomenico Palumbo
 
 **The content of this course evolves in line with technological evolution**
 
-# COURSE START/END DATE: 
+# Course start/end date: 
 the course starts at the end of September and ends at the end of May. The course lasts one hour per week at Computer Science Laboratory, IIS headquarters via Roma 298
 
 # Overview:
