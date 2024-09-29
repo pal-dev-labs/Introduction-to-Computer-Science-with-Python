@@ -1,13 +1,17 @@
 # Introduction to Computer Science with Python
+
 Grade Level: High School
+
 Duration: 3 years
+
 [IIS Ettore Majorana - via ROMA 298 - Guidonia](https://www.liceoguidonia.edu.it/)
 
 Teacher: Prof. Giandomenico Palumbo
 
 **The content of this course evolves in line with technological evolution**
 
-COURSE START/END DATE: the course starts at the end of September and ends at the end of May. The course lasts one hour per week at Computer Science Laboratory, IIS headquarters via Roma 298
+# COURSE START/END DATE: 
+the course starts at the end of September and ends at the end of May. The course lasts one hour per week at Computer Science Laboratory, IIS headquarters via Roma 298
 
 # Overview:
 This course offers an engaging and comprehensive introduction to the world of computer science using Python, a versatile and powerful programming language. Designed for high school students, the curriculum emphasizes foundational programming concepts while seamlessly integrating computational mathematics and physics, linear algebra, statistics, algorithm theory, data science, artificial intelligence (AI), and machine learning (ML).
