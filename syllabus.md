@@ -8,6 +8,11 @@
     - Introduction to variables, assign statement, print statement and operations with variables
     - How to print and input data from keyboard
 2. Lesson 2
-    - Introduction Python Strings
+    - Introduction to Python Strings
     - Creation and operations on strings (concatenation and repetition)
     - Accessing characters and slicing in a string
+3. Lesson 3
+    - Introduction to Python Functions
+    - How to define and call a Functions.
+    - Functions with and without parameters
+    - How to define an anonymous function (lambda function)
