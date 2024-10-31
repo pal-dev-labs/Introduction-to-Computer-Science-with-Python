@@ -16,3 +16,7 @@
     - How to define and call a Functions.
     - Functions with and without parameters
     - How to define an anonymous function (lambda function)
+4. Lesson 4
+    - Introduction to Python Conditional Structures and Cycles (for)
+    - How to define a Conditional Structure with if-elif-else.
+    - How to define a cycle with for instrucion
